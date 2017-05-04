@@ -1,2 +1,6 @@
-# It's a LOVE STORY!
-# Fairy-Bro
+##### Fairy-Bro
+while(true):
+    practice    
+    log
+    
+
